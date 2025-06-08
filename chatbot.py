@@ -41,9 +41,9 @@ class Config:
     AUDIO_DURATION = 7
     
     # Imagens
-    IMG_PROFILE = "https://i.ibb.co/ks5CNrDn/IMG-9256.jpg"
+    IMG_PROFILE = "https://i.ibb.co/q3zshMv7/preview-gif-mp4.jpg"
     IMG_GALLERY = [
-        "https://i.ibb.co/zhNZL4FF/IMG-9198.jpg",
+        "https://i.ibb.co/q3zshMv7/preview-gif-mp4.jpg",
         "https://i.ibb.co/Y4B7CbXf/IMG-9202.jpg",
         "https://i.ibb.co/Fqf0gPPq/IMG-9199.jpg"
     ]
