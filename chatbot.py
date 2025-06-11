@@ -22,7 +22,7 @@ class Config:
     API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
     
     # URLs de checkout/páginas
-    VIP_LINK = "https://exemplo.com/vip"
+    VIP_LINK = "https://pay.risepay.com.br/Pay/fc2bf906fb91495093cfeda4cc108043"
     CHECKOUT_START = "https://pay.risepay.com.br/Pay/fd37acee0b8748278e3db502fb448e43"
     CHECKOUT_PREMIUM = "https://pay.risepay.com.br/Pay/fc2bf906fb91495093cfeda4cc108043"
     CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/515a5ccd1a574cb79bf0a5b5f667cec5"
@@ -39,8 +39,8 @@ class Config:
     IMG_PROFILE = "https://i.ibb.co/q3zshMv7/preview-gif-mp4.jpg"
     IMG_GALLERY = [
         "https://i.ibb.co/q3zshMv7/preview-gif-mp4.jpg",
-        "https://i.ibb.co/Y4B7CbXf/IMG-9202.jpg",
-        "https://i.ibb.co/Fqf0gPPq/IMG-9199.jpg"
+        "https://i.ibb.co/8k2cMNQ/IMG-9225.jpg",
+        "https://i.ibb.co/FL3ZMXhz/IMG-9229.jpg"
     ]
     IMG_HOME_PREVIEWS = [
         "https://i.ibb.co/k2MJg4XC/Save-ClipApp-412457343-378531441368078-7870326395110089440-n.jpg",
@@ -465,7 +465,7 @@ class NewPages:
         <div class="package-box package-start">
             <div class="package-header">
                 <h3 style="color: #ff66b3;">START</h3>
-                <div class="package-price" style="color: #ff66b3;">R$ 49,90</div>
+                <div class="package-price" style="color: #ff66b3;">R$ 19,90</div>
                 <small>para iniciantes</small>
             </div>
             <ul class="package-benefits">
@@ -500,7 +500,7 @@ class NewPages:
             <div class="package-badge">POPULAR</div>
             <div class="package-header">
                 <h3 style="color: #9400d3;">PREMIUM</h3>
-                <div class="package-price" style="color: #9400d3;">R$ 99,90</div>
+                <div class="package-price" style="color: #9400d3;">R$ 49,90</div>
                 <small>experiência completa</small>
             </div>
             <ul class="package-benefits">
@@ -536,7 +536,7 @@ class NewPages:
         <div class="package-box package-extreme">
             <div class="package-header">
                 <h3 style="color: #ff0066;">EXTREME</h3>
-                <div class="package-price" style="color: #ff0066;">R$ 199,90</div>
+                <div class="package-price" style="color: #ff0066;">R$ 79,90</div>
                 <small>para verdadeiros fãs</small>
             </div>
             <ul class="package-benefits">
